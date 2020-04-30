@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8dde834b-aa86-418c-8150-6380a9f3f7f8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bFOAoDMGEgl5uOLraoEwibHdAR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8dde834b-aa86-418c-8150-6380a9f3f7f8" name="Default Changelist" comment="" />
+      <created>1588224234942</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588224234942</updated>
+      <workItem from="1588224238627" duration="717000" />
+    </task>
+    <task id="LOCAL-00001" summary="add new commit">
+      <created>1588224287541</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588224287541</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add new commit 2">
+      <created>1588224364982</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588224364982</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add new commit" />
+    <MESSAGE value="add new commit 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new commit 2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="569" y="56" key="CommitChangelistDialog2" timestamp="1588224364784">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="569" y="56" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1588224364784" />
+    <state x="560" y="276" key="Vcs.Push.Dialog.v2" timestamp="1588224373891">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="276" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1588224373891" />
+  </component>
+</project>
