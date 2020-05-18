@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_user_8php">
+<title>user.php File Reference</title>
+<indexterm><primary>user.php</primary></indexterm>
+<simplesect>
+    <title>Variables    </title>
+        <itemizedlist>
+            <listitem><para><link linkend="_user_8php_1aaf58282800e520a7bbea38831aa55da3">if</link> (isset( $_SESSION[ &apos;user&apos;]) &amp;&amp;isAdmin( $_SESSION[ &apos;user&apos;][ &apos;id&apos;], $link))</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Variable Documentation</title>
+<anchor xml:id="_user_8php_1aaf58282800e520a7bbea38831aa55da3"/>    <section>
+    <title>if</title>
+<indexterm><primary>if</primary><secondary>user.php</secondary></indexterm>
+<indexterm><primary>user.php</primary><secondary>if</secondary></indexterm>
+<para><computeroutput>if(isset($_SESSION[&apos;user&apos;]) &amp;&amp;isAdmin($_SESSION[&apos;user&apos;][&apos;id&apos;], $link))</computeroutput></para></section>
+</section>
+</section>

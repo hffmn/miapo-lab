@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_slau_8py">
+<title>slau.py File Reference</title>
+<indexterm><primary>slau.py</primary></indexterm>
+<simplesect>
+    <title>Namespaces    </title>
+        <itemizedlist>
+            <listitem><para> <link linkend="_namespaceslau">slau</link></para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Functions    </title>
+        <itemizedlist>
+            <listitem><para>def <link linkend="_namespaceslau_1ac2ab636b5991dc7c8813d7a98ea8994d">f</link> (x)</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Variables    </title>
+        <itemizedlist>
+            <listitem><para><link linkend="_namespaceslau_1ac665b11c6b884a502a988db8fd686796">family</link></para>
+</listitem>
+            <listitem><para><link linkend="_namespaceslau_1aa3d6656320f1a7278c0c2c7fdf07617c">size</link></para>
+</listitem>
+            <listitem><para><link linkend="_namespaceslau_1aad57484016654da87125db86f4227ea3">w</link> = numpy.linalg.solve(M6, v6)</para>
+</listitem>
+            <listitem><para><link linkend="_namespaceslau_1a9336ebf25087d91c818ee6e9ec29f8c1">x</link> = numpy.linspace(-2,2,200)</para>
+</listitem>
+            <listitem><para><link linkend="_namespaceslau_1a22f45a3cb4f074e609f58ebaeef0ecf9">label</link></para>
+</listitem>
+            <listitem><para><link linkend="_namespaceslau_1a3f6f55ba521257932bb08684e0181fa1">xy</link></para>
+</listitem>
+            <listitem><para><link linkend="_namespaceslau_1a517af9e6947281e8141398f7085b408f">xytext</link></para>
+</listitem>
+            <listitem><para><link linkend="_namespaceslau_1a059ba52d5f0a774f911e429aa6fedb4b">arrowprops</link></para>
+</listitem>
+            <listitem><para><link linkend="_namespaceslau_1a411167eeca51189fabe03f884c7bf92c">bbox_to_anchor</link></para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+</section>

@@ -1,0 +1,277 @@
+AutoGen Definitions dummy;
+file = {
+  file-id   = '1_8txt';
+  file-name = '1.txt';
+  file-full-name  = 'C:/Users/admin/miapo-lab/1.txt';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = '_download_8php';
+  file-name = 'Download.php';
+  file-full-name  = 'C:/Users/admin/miapo-lab/Download.php';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = '_r_e_a_d_m_e_8md';
+  file-name = 'README.md';
+  file-full-name  = 'C:/Users/admin/miapo-lab/README.md';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = 'slau_8py';
+  file-name = 'slau.py';
+    func = {
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = 'namespaceslau_1ac2ab636b5991dc7c8813d7a98ea8994d';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+def
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'f';
+      func-mem-param = {
+        func-mem-param-type = <<_EnD_oF_dEf_TeXt_
+x
+_EnD_oF_dEf_TeXt_;
+        func-mem-param-defname = 'x';
+      }; /*        func-mem-param--param */
+      func-mem-desc-file = 'C:/Users/admin/miapo-lab/slau.py';
+      func-mem-desc-line = '9';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* func-member */
+    };
+    var = {
+    var-member = {
+      var-mem-kind = 'variable';
+      var-mem-id   = 'namespaceslau_1ac665b11c6b884a502a988db8fd686796';
+      var-mem-virt = normal;
+      var-mem-prot = public;
+      var-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-name = 'family';
+      var-mem-desc-file = 'C:/Users/admin/miapo-lab/slau.py';
+      var-mem-desc-line = '6';
+      var-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* var-member */
+    var-member = {
+      var-mem-kind = 'variable';
+      var-mem-id   = 'namespaceslau_1aa3d6656320f1a7278c0c2c7fdf07617c';
+      var-mem-virt = normal;
+      var-mem-prot = public;
+      var-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-name = 'size';
+      var-mem-desc-file = 'C:/Users/admin/miapo-lab/slau.py';
+      var-mem-desc-line = '6';
+      var-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* var-member */
+    var-member = {
+      var-mem-kind = 'variable';
+      var-mem-id   = 'namespaceslau_1aad57484016654da87125db86f4227ea3';
+      var-mem-virt = normal;
+      var-mem-prot = public;
+      var-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-name = 'w';
+      var-mem-initializer = <<_EnD_oF_dEf_TeXt_
+=  numpy.linalg.solve(M6, v6)
+_EnD_oF_dEf_TeXt_;
+      var-mem-desc-file = 'C:/Users/admin/miapo-lab/slau.py';
+      var-mem-desc-line = '8';
+      var-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* var-member */
+    var-member = {
+      var-mem-kind = 'variable';
+      var-mem-id   = 'namespaceslau_1a9336ebf25087d91c818ee6e9ec29f8c1';
+      var-mem-virt = normal;
+      var-mem-prot = public;
+      var-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-name = 'x';
+      var-mem-initializer = <<_EnD_oF_dEf_TeXt_
+=  numpy.linspace(-2,2,200)
+_EnD_oF_dEf_TeXt_;
+      var-mem-desc-file = 'C:/Users/admin/miapo-lab/slau.py';
+      var-mem-desc-line = '15';
+      var-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* var-member */
+    var-member = {
+      var-mem-kind = 'variable';
+      var-mem-id   = 'namespaceslau_1a22f45a3cb4f074e609f58ebaeef0ecf9';
+      var-mem-virt = normal;
+      var-mem-prot = public;
+      var-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-name = 'label';
+      var-mem-desc-file = 'C:/Users/admin/miapo-lab/slau.py';
+      var-mem-desc-line = '18';
+      var-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* var-member */
+    var-member = {
+      var-mem-kind = 'variable';
+      var-mem-id   = 'namespaceslau_1a3f6f55ba521257932bb08684e0181fa1';
+      var-mem-virt = normal;
+      var-mem-prot = public;
+      var-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-name = 'xy';
+      var-mem-desc-file = 'C:/Users/admin/miapo-lab/slau.py';
+      var-mem-desc-line = '23';
+      var-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* var-member */
+    var-member = {
+      var-mem-kind = 'variable';
+      var-mem-id   = 'namespaceslau_1a517af9e6947281e8141398f7085b408f';
+      var-mem-virt = normal;
+      var-mem-prot = public;
+      var-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-name = 'xytext';
+      var-mem-desc-file = 'C:/Users/admin/miapo-lab/slau.py';
+      var-mem-desc-line = '23';
+      var-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* var-member */
+    var-member = {
+      var-mem-kind = 'variable';
+      var-mem-id   = 'namespaceslau_1a059ba52d5f0a774f911e429aa6fedb4b';
+      var-mem-virt = normal;
+      var-mem-prot = public;
+      var-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-name = 'arrowprops';
+      var-mem-desc-file = 'C:/Users/admin/miapo-lab/slau.py';
+      var-mem-desc-line = '24';
+      var-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* var-member */
+    var-member = {
+      var-mem-kind = 'variable';
+      var-mem-id   = 'namespaceslau_1a411167eeca51189fabe03f884c7bf92c';
+      var-mem-virt = normal;
+      var-mem-prot = public;
+      var-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-name = 'bbox_to_anchor';
+      var-mem-desc-file = 'C:/Users/admin/miapo-lab/slau.py';
+      var-mem-desc-line = '27';
+      var-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* var-member */
+    };
+  file-full-name  = 'C:/Users/admin/miapo-lab/slau.py';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
+file = {
+  file-id   = 'user_8php';
+  file-name = 'user.php';
+    var = {
+    var-member = {
+      var-mem-kind = 'variable';
+      var-mem-id   = 'user_8php_1aaf58282800e520a7bbea38831aa55da3';
+      var-mem-virt = normal;
+      var-mem-prot = public;
+      var-mem-type = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-name = 'if';
+      var-mem-desc-file = 'C:/Users/admin/miapo-lab/user.php';
+      var-mem-desc-line = '17';
+      var-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+    }; /* var-member */
+    };
+  file-full-name  = 'C:/Users/admin/miapo-lab/user.php';
+  file-first-line = '1';
+  file-briefdesc  = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+  file-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+}; /* file */
